@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-image: url(./welcome.jpg); */
+    background-image:linear-gradient(to bottom right, red, yellow);
+    
+}
+
+.gradeCont{
+    margin:  300px auto;
+    width: 60%;
+}
+
+input{
+    margin: 10px auto;
+}
+
+button{
+    margin: 0 auto;
+    width: 50%;
+}
